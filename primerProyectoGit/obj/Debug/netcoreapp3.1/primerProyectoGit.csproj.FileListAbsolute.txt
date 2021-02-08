@@ -1,0 +1,13 @@
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\bin\Debug\netcoreapp3.1\primerProyectoGit.exe
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\bin\Debug\netcoreapp3.1\primerProyectoGit.deps.json
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\bin\Debug\netcoreapp3.1\primerProyectoGit.runtimeconfig.json
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\bin\Debug\netcoreapp3.1\primerProyectoGit.runtimeconfig.dev.json
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\bin\Debug\netcoreapp3.1\primerProyectoGit.dll
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\bin\Debug\netcoreapp3.1\primerProyectoGit.pdb
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\obj\Debug\netcoreapp3.1\primerProyectoGit.csprojAssemblyReference.cache
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\obj\Debug\netcoreapp3.1\primerProyectoGit.AssemblyInfoInputs.cache
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\obj\Debug\netcoreapp3.1\primerProyectoGit.AssemblyInfo.cs
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\obj\Debug\netcoreapp3.1\primerProyectoGit.csproj.CoreCompileInputs.cache
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\obj\Debug\netcoreapp3.1\primerProyectoGit.dll
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\obj\Debug\netcoreapp3.1\primerProyectoGit.pdb
+C:\Users\ivinr\Desktop\Nueva carpeta\primerProyectoGit\primerProyectoGit\primerProyectoGit\obj\Debug\netcoreapp3.1\primerProyectoGit.genruntimeconfig.cache
